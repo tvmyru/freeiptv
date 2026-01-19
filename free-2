@@ -1,15 +1,5 @@
 #EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_1.xml.gz"
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,TV12 GUDAUTA
-http://185.221.213.254:8080/Mafia2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,ТЕХ ЛЕТ ТВ
-http://cdn.voka.tv/live/9489-req_5k_v5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Орбита ТВ
-http://cdn.voka.tv/live/3870-req_5k_v5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Манас ТВ
-http://212.42.111.152:8080/hls/manas.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="🔴 Кинозалы 🔴" ,Патриот
-http://185.46.48.18/asvtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gG2bNbq/image-30.png" tvg-id="" group-title="🔴 Кинозалы 🔴", Скрипач ТВ
 https://kino-stream.online/hls/scripach.m3u8
 
